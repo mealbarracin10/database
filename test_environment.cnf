@@ -1,0 +1,8 @@
+# test_environment.cnf
+[client]
+database = test_database
+user = manre
+password = 123
+host = localhost
+port = 3306
+default-character-set = utf8

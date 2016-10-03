@@ -1,0 +1,8 @@
+# production_environment.cnf
+[client]
+database = cct
+user = arquitecturas
+password = Agiles2016
+host = cct2.caqaaqeiq6gd.us-west-2.rds.amazonaws.com
+port = 3306
+default-character-set = utf8
